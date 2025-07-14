@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <h2> Code Challanges 00 </h2>
 <table><tr><th>Exploring Operators and String Manipulation</th></tr><tr><td>
-<img align="left" alt="cc0" src="badges/code_challange_0.png"  width="150px"/>
+<img align="center" alt="cc0" src="badges/code_challange_0.png"  width="150px"/>
 
 | Online Discount | E-mail checker |
 | :-: | :-: |
@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <h2> Code Challanges 01 </h2>
 <table><tr><th>Applying Datas and List</th></tr><tr><td>
-<img align="left" alt="cc1" src="badges/code_challange_0.png"  width="150px"/>
+<img align="center" alt="cc1" src="badges/code_challange_0.png"  width="150px"/>
 
 | Shopping Cart | Event Organizer |
 | :-: | :-: |
@@ -46,7 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <h2> Code Challanges 02 </h2>
 <table><tr><th>Working with functions</th></tr><tr><td>
-<img align="left" alt="cc2" src="badges/code_challange_1.png"  width="150px"/>
+<img align="center" alt="cc2" src="badges/code_challange_1.png"  width="150px"/>
 
 | Medical Triage System | Hotel Reservation System |
 | :-: | :-: |
@@ -67,7 +67,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <h2> Code Challanges 03 </h2>
 <table><tr><th>Working with functions</th></tr><tr><td>
-<img align="left" alt="cc3" src="badges/code_challange_1.png"  width="150px"/>
+<img align="center" alt="cc3" src="badges/code_challange_1.png"  width="150px"/>
 
 | Vehicle Manager System | Restaurant Order System |
 | :-: | :-: |
@@ -77,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <h2> Code Challanges 04 </h2>
 <table><tr><th>Working with Python Packeges</th></tr><tr><td>
-<img align="left" alt="cc3" src="badges/code_challange_2.png"  width="150px"/>
+<img align="center" alt="cc3" src="badges/code_challange_2.png"  width="150px"/>
 
 | Access Control System | Stock Control System |
 | :-: | :-: |
