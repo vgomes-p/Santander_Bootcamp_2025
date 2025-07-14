@@ -4,7 +4,7 @@
 <h2> Basic Bank System </h2>
 <img align="left" alt="BBS" src="badges/BBS.png"  width="150px"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <a href="https://github.com/vgomes-p/BBS_SB25" target="_blank">
   <img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect">
@@ -36,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <h2> Improving Basic Bank System with functions </h2>
 <img align="left" alt="SCS" src="badges/BBS.png"  width="150px"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <a href="https://github.com/vgomes-p/Santander_Bootcamp_2025" target="_blank">
   <img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect">
@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <h2> Medium Bank System </h2>
 <img align="left" alt="MBS" src="badges/MBS.png"  width="150px"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <a href="https://github.com/vgomes-p/Santander_Bootcamp_2025" target="_blank">
   <img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect">
@@ -88,7 +88,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <h2> Advanced Bank System </h2>
 <img align="left" alt="ABS" src="badges/ABS.png"  width="150px"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <a href="https://github.com/vgomes-p/Santander_Bootcamp_2025" target="_blank">
   <img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect">
@@ -99,7 +99,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <h2> Medium API Development </h2>
 <img align="left" alt="MAD" src="badges/MAD.png"  width="150px"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <a href="https://github.com/vgomes-p/Santander_Bootcamp_2025" target="_blank">
   <img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect">
@@ -110,7 +110,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <h2> Advanced API Development </h2>
 <img align="left" alt="AAD" src="badges/AAD.png"  width="150px"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <a href="https://github.com/vgomes-p/Santander_Bootcamp_2025" target="_blank">
   <img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect">
