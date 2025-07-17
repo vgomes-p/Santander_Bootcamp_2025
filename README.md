@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 | Online Discount | E-mail checker |
 | :-: | :-: |
-| <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/ch00/ex00" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> | <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/ch00/ex01" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> |
+| <a href="[https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/ch00/ex00](https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/Code%20Challenge%2000%20-%20Exploring%20Operators%20and%20String%20Manipulation/ex00%20-%20Online%20Discount)" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> | <a href="[https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/ch00/ex01](https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/Code%20Challenge%2000%20-%20Exploring%20Operators%20and%20String%20Manipulation/ex01%20-%20E-mail%20checker)" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> |
 
 </tr></td></tr></table>
 
@@ -29,7 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 | Shopping Cart | Event Organizer |
 | :-: | :-: |
-| <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> | <a href="https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> |
+| <a href="[https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/](https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/Code%20Challenge%2001%20-%20Applying%20Datas%20and%20List/ex00%20-%20Shopping%20Cart)" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> | <a href="[https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/](https://github.com/vgomes-p/CodeChallanges_SB25/tree/main/Challenges/Code%20Challenge%2001%20-%20Applying%20Datas%20and%20List/ex01%20-%20Event%20Organizer)" target="_blank"><img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect"></a> |
 
 </tr></td></tr></table>
 
