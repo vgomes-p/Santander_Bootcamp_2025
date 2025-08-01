@@ -4,7 +4,7 @@
 <h2> Basic Bank System </h2>
 <img align="left" alt="BBS" src="badges/BBS.png"  width="150px"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+A basic banking system built in Python as the first hands-on project of the bootcamp. It simulates account operations like deposits, withdrawals (limited per day), and statement generation using dictionaries. Despite its simplicity, it already uses functions and a modular structure, setting the foundation for more advanced financial systems built later in the program.
 
 <a href="https://github.com/vgomes-p/bank-system/tree/v0.-basic_bank_system" target="_blank">
   <img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect">
@@ -33,10 +33,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </tr></td></tr></table>
 
-<h2> Improving Basic Bank System with functions </h2>
+<h2> Improving Basic Bank System with functions | Medium Bank System v1 </h2>
 <img align="left" alt="SCS" src="badges/BBS.png"  width="150px"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This version improves the initial banking system with a centralized data structure and stricter validations. It introduces automatic login generation, full user registration, CPF duplication checks, and consistent monetary formatting. Code was modularized into smaller, maintainable functions, making the system more robust and scalable while preserving core features like deposits, withdrawals, and transaction tracking.
 
 <a href="https://github.com/vgomes-p/bank-system/tree/v1.-medium_bank_system" target="_blank">
   <img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect">
@@ -54,7 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </tr></td></tr></table>
 
-<h2> Medium Bank System </h2>
+<h2> Medium Bank System v2. </h2>
 <img align="left" alt="MBS" src="badges/MBS.png"  width="150px"/>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
