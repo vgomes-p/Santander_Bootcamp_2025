@@ -34,7 +34,7 @@ A basic banking system built in Python as the first hands-on project of the boot
 </tr></td></tr></table>
 
 <h2> Medium Bank System v1 </h2>
-<img align="left" alt="SCS" src="badges/BBS.png"  width="150px"/>
+<img align="left" alt="SCS" src="badges/MBS.png"  width="150px"/>
 
 This version improves the initial banking system with a centralized data structure and stricter validations. It introduces automatic login generation, full user registration, CPF duplication checks, and consistent monetary formatting. Code was modularized into smaller, maintainable functions, making the system more robust and scalable while preserving core features like deposits, withdrawals, and transaction tracking.
 
@@ -55,7 +55,7 @@ This version improves the initial banking system with a centralized data structu
 </tr></td></tr></table>
 
 <h2> Advanced Bank System v2. </h2>
-<img align="left" alt="MBS" src="badges/BBS.png"  width="150px"/>
+<img align="left" alt="MBS" src="badges/ABS.png"  width="150px"/>
 
 The system transitions from procedural to object-oriented programming, improving scalability and clarity. With a fully restructured codebase and architecture, this version introduces classes to manage users, accounts, and operations. It also enhances registration by requiring a date of birth and consolidates user data management into a more maintainable, modular, and professional backend structure.
 
