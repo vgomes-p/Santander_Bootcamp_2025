@@ -57,7 +57,7 @@ This version improves the initial banking system with a centralized data structu
 <h2> Advanced Bank System v2. </h2>
 <img align="left" alt="MBS" src="badges/BBS.png"  width="150px"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The system transitions from procedural to object-oriented programming, improving scalability and clarity. With a fully restructured codebase and architecture, this version introduces classes to manage users, accounts, and operations. It also enhances registration by requiring a date of birth and consolidates user data management into a more maintainable, modular, and professional backend structure.
 
 <a href="https://github.com/vgomes-p/bank-system/tree/v2.-advanced_bank_system" target="_blank">
   <img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect">
@@ -108,4 +108,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </a>
 
 <div style="clear: both;"></div>
+
 
