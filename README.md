@@ -33,7 +33,7 @@ A basic banking system built in Python as the first hands-on project of the boot
 
 </tr></td></tr></table>
 
-<h2> Improving Basic Bank System with functions | Medium Bank System v1 </h2>
+<h2> Medium Bank System v1 </h2>
 <img align="left" alt="SCS" src="badges/BBS.png"  width="150px"/>
 
 This version improves the initial banking system with a centralized data structure and stricter validations. It introduces automatic login generation, full user registration, CPF duplication checks, and consistent monetary formatting. Code was modularized into smaller, maintainable functions, making the system more robust and scalable while preserving core features like deposits, withdrawals, and transaction tracking.
@@ -54,12 +54,12 @@ This version improves the initial banking system with a centralized data structu
 
 </tr></td></tr></table>
 
-<h2> Medium Bank System v2. </h2>
-<img align="left" alt="MBS" src="badges/MBS.png"  width="150px"/>
+<h2> Advanced Bank System v2. </h2>
+<img align="left" alt="MBS" src="badges/BBS.png"  width="150px"/>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-<a href="https://github.com/vgomes-p/Santander_Bootcamp_2025" target="_blank">
+<a href="https://github.com/vgomes-p/bank-system/tree/v2.-advanced_bank_system" target="_blank">
   <img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect">
 </a>
 
@@ -85,15 +85,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </tr></td></tr></table>
 
-<h2> Advanced Bank System </h2>
-<img align="left" alt="ABS" src="badges/ABS.png"  width="150px"/>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-<a href="https://github.com/vgomes-p/Santander_Bootcamp_2025" target="_blank">
-  <img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect">
-</a>
-
 <div style="clear: both;"></div>
 
 <h2> Medium API Development </h2>
@@ -117,3 +108,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </a>
 
 <div style="clear: both;"></div>
+
