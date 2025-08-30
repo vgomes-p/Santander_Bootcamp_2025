@@ -99,11 +99,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <div style="clear: both;"></div>
 
 <h2> Advanced API Development </h2>
-<img align="left" alt="AAD" src="badges/AAD.png"  width="150px"/>
+<img align="left" alt="AAD" src="badges/API2.png"  width="150px"/>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-<a href="https://github.com/vgomes-p/Santander_Bootcamp_2025" target="_blank">
+<a href="https://github.com/vgomes-p/store_api-studycase" target="_blank">
   <img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect">
 </a>
 
