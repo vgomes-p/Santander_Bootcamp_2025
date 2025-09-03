@@ -1,4 +1,4 @@
-# Santander Bootcamp 2025 – Back-End with Python
+# Santander Bootcamp 2025/1 | Back-End with Python
 
 
 <h2> Basic Bank System </h2>
@@ -90,7 +90,7 @@ The system transitions from procedural to object-oriented programming, improving
 <h2> Medium API Development </h2>
 <img align="left" alt="MAD" src="badges/API1.png"  width="150px"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**NOTE:** This is the first API for gym workouts, it is still under construction. I'm using it to study, practice, and understand the API development process. If you have any suggestions, tips, or guidance, please feel free to contact me through the communication channels on my GitHub or LinkedIn.
 
 <a href="https://github.com/vgomes-p/gym-API" target="_blank">
   <img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect">
@@ -101,7 +101,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <h2> Advanced API Development </h2>
 <img align="left" alt="AAD" src="badges/API2.png"  width="150px"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**NOTE:** This is a study repository. This means that most of the content wasn't created by me (reference links are at the end) and that I use it to study topics I didn't have time to delve into during the bootcamp. Access the Bootcamp quick access to see projects made by me! If you have any suggestions, tips, or guidance, please feel free to contact me through the communication channels on my GitHub or LinkedIn.
 
 <a href="https://github.com/vgomes-p/store_api-studycase" target="_blank">
   <img src="https://img.shields.io/badge/See%20project-red?style=for-the-badge" alt="connect">
